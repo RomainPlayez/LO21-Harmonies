@@ -1,0 +1,6 @@
+﻿build/
+.qtcreator/
+.DS_Store
+compile_commands.json
+*.user
+out/
